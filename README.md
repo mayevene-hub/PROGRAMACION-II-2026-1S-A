@@ -1,6 +1,6 @@
 # PROGRAMACION-II-2026-1S-A
 
-En este repositorio documentaré los avances sobre mi proyecto final, del juego para Programación-II.
+En este repositorio documentaré los avances sobre mi proyecto final del juego para Programación-II.
 
 # EXPLICACIÓN:
 
